@@ -25,7 +25,7 @@ virtual cursor using hand and eye movements, enhancing human-computer interactio
    
       Pause media if eyes are not detected for a certain time.
    
-      Lock the screen if eyes are not detected for too long.
+      Sleep the screen if eyes are not detected for too long.
    
 **3. Requirements**
    
