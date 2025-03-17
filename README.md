@@ -14,6 +14,8 @@ virtual cursor using hand and eye movements, enhancing human-computer interactio
       Move the mouse using the index finger.
    
       Left-click when index & middle fingers are close together.
+
+      Double Click Fast repeated clicks when fingers are close.
    
       Right-click when only the thumb is up.
    
@@ -24,12 +26,6 @@ virtual cursor using hand and eye movements, enhancing human-computer interactio
       Pause media if eyes are not detected for a certain time.
    
       Lock the screen if eyes are not detected for too long.
-
-      Single Click: Bring index & middle fingers close together.
-   
-      Double Click: Fast repeated clicks when fingers are close.
-   
-      Scrolling: Pinky/Ring finger movement controls scroll.
    
 **3. Requirements**
    
