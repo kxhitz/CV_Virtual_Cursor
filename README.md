@@ -6,6 +6,7 @@ Aim : To develop a computer vision-based gesture recognition system that enables
 virtual cursor using hand and eye movements, enhancing human-computer interaction.
 
 **Short Summary :**
+
 1. This project allows users to control their computer’s mouse, media playback, and volume using hand gestures and face tracking. It uses OpenCV, MediaPipe, and pynput to detect hand movements, facial landmarks, and simulate keyboard/mouse actions.
    
 **2. Features:**
