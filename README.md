@@ -7,17 +7,18 @@ virtual cursor using hand and eye movements, enhancing human-computer interactio
 
 **Short Summary :**
 1. This project allows users to control their computer’s mouse, media playback, and volume using hand gestures and face tracking. It uses OpenCV, MediaPipe, and pynput to detect hand movements, facial landmarks, and simulate keyboard/mouse actions.
+   
 **2. Features:**
    
-   Hand Tracking for Mouse Control
+      Hand Tracking for Mouse Control
    
-   Face Tracking for Volume & Media Control
+      Face Tracking for Volume & Media Control
    
-   Auto-Lock Screen When Eyes Are Not Detected
+      Auto-Lock Screen When Eyes Are Not Detected
    
-   Gesture-Based Scrolling & Clicking
+      Gesture-Based Scrolling & Clicking
    
-   Dynamic FPS Display
+      Dynamic FPS Display
    
 **3. Functionalities & Their Implementation**
    
